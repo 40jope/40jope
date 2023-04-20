@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá, eu sou o João Pedro!
 
-- 🌱 Estudando Front-End
+- 🌱 Estou estudando Front-End
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: sou Grêmio.
 ##
