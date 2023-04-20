@@ -5,8 +5,8 @@
 - ⚡ Fun fact: sou Grêmio.
 ##
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=40jope&show_icons=true&theme=tokyonight">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=40jope&show_icons=true&theme=tokyonight">
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
 </div>
 
 
