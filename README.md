@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**40jope/40jope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Front-End
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: sou Grêmio.
+##
+<div>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=40jope&show_icons=true&theme=tokyonight">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <a href="https://www.linkedin.com/in/joão-pedro-de-oliveira-nunes-0b5276195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
